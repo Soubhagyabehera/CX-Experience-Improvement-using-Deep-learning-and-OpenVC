@@ -5,7 +5,8 @@ Customer experience improvement factors generally are:
 ● Customer value proposition,operation
 ● Organisation,Technology
 
-● We basically focus on Vision,Customer Behaviour for it is gives the most obvious reaction of any consumer about any product or brand and finding out the unique sale point ,areas of expansion or enhancement
+● i am basically focusing on Vision,Customer Behaviour as it  gives the most obvious reaction of any consumer about any product or brand
+  and finding out the unique sale point ,areas of expansion or enhancement
 ● Gender is also one of the most important factor as the customer's buying point differs from gender to gender.
 ● Rethinking the entire customer journey & experience i.e, reflecting new needs and presenting actionable plans.
 ● Presenting meaningful transformation for digital customer lifecycle.
